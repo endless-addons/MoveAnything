@@ -1,3 +1,3 @@
 # MoveAnything
 
-An AddOn allowing you to move unit and other UI elements anywhere!
+An AddOn allowing you to move unit frames and other UI elements anywhere!
